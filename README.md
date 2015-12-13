@@ -1,0 +1,1 @@
+# TDBarcode-QRScanner-Database
